@@ -1,5 +1,19 @@
 [
   {
+  "id": 1,
+  "title": "Mortal Kombat Universe & Story Overview",
+  "title_zh": "真人快打 宇宙与故事概览",
+  "source": "Wikipedia / Den of Geek / Mortal Kombat Wiki / 各官方信息",
+  "link": "https://en.wikipedia.org/wiki/Mortal_Kombat",
+  "tags": ["Video Games","Fighting Game","Lore","Fantasy"],
+  "tags_zh": ["电子游戏","格斗游戏","背景故事","幻想"],
+  "date": "2025-09-14",
+  "summary_en": "Mortal Kombat is a long-running fighting game franchise that features multiple realms, divine beings, and a recurring tournament where fighters from different realms compete. The stories span across timelines, reboots, and alternate universes, with key characters like Liu Kang, Raiden, Sub-Zero, Scorpion, Shang Tsung, and Shao Kahn. Key themes include prophecy, realm conflict, betrayal, power struggles, resurrection, and time manipulation.",
+  "summary_zh": "《真人快打》是一部延续多年的格斗游戏系列，设定中包含多个领域（Realm）、神祇存在，以及一个定期举行的跨界斗士锦标赛，不同领域的战士互相竞争。剧情跨越多个时间线（包括重启版本与平行宇宙），主要角色有刘康（Liu Kang）、雷电（Raiden）、绝对零度（Sub-Zero）、蝎子（Scorpion）、尚宗（Shang Tsung）、沙奥·康（Shao Kahn）等。故事主题常围绕预言、领域间冲突、背叛、复活与时间的操纵展开。",
+  "best_quote_en": "“The Elder Gods decreed that the denizens of one realm could only conquer another realm by defeating the defending realm's greatest warriors in ten consecutive martial arts tournaments, called Mortal Kombat.”",
+  "best_quote_zh": "“古老神祇宣告，若一个领域的居民要征服另一个领域，必须在十届连续的武术锦标赛中击败守护领域的最强战士，这个锦标赛即为『真人快打』。”"
+},
+{
     "id": 1,
     "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
     "title_zh": "社交媒体在我怀孕前就猜到了，我的信息流很快变得可怕",
