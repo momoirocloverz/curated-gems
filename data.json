@@ -29,119 +29,80 @@
 }
 ,
   {
-    "id": 2,
-    "title": "Superlinear Returns",
-    "title_zh": "超线性回报",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/superlinear.html",
-    "tags": [
-      "guide",
-      "startup-strategy",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "指导",
-      "创业策略",
-      "数据驱动"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This profound essay by Paul Graham dissects the concept of 'superlinear returns,' arguing that success in many fields isn't linear but exponential, driven by compounding effects and critical thresholds. He challenges the conventional wisdom that 'you get out what you put in,' revealing how slight differences in performance can lead to vastly disproportionate outcomes. Graham illustrates this with examples from startups, science, and fame, emphasizing that exponential growth and 'winner-take-all' thresholds are inherent features of the world, not just capitalism. He advocates for embracing this reality by prioritizing continuous learning, pursuing curiosity-driven work, and taking calculated risks, especially for ambitious individuals. The essay implicitly celebrates independent thought and highlights how modern technology amplifies these superlinear effects, shifting power from traditional institutions to individuals capable of exceptional, innovative work. It's a compelling read for anyone seeking to understand the dynamics of high achievement and navigate a rapidly evolving professional landscape.",
-    "summary_zh": "保罗·格雷厄姆的这篇佳作深入剖析了“超线性回报”这一颠覆性概念，揭示了在许多领域中，努力与回报并非线性关系，而是呈现指数级增长。他挑战了“一分耕耘一分收获”的传统观念，指出微小的表现差异可能带来巨大的成果鸿沟。文章通过创业、科学、名望等案例，强调指数增长和“赢家通吃”的门槛是世界固有的特性，而非资本主义的产物。对我而言，这不仅是理解成功法则的钥匙，更是对个人发展路径的深刻反思：要拥抱不确定性，持续学习，追随好奇心，并敢于承担风险。这篇论述对那些追求卓越的独立思考者而言，无疑是一剂强心针，指明了在机构影响力减弱的时代，个体如何通过创新和卓越工作创造非凡价值。",
-    "best_quote_en": "You can't understand the world without understanding the concept of superlinear returns. And if you're ambitious you definitely should, because this will be the wave you surf on.",
-    "best_quote_zh": "不理解超线性回报，你就无法理解这个世界。如果你雄心勃勃，那更应该理解它，因为这将是你乘风破浪的浪潮。"
-  },
+  "id": 2,
+  "title": "Blender Features",
+  "title_zh": "Blender 功能介绍",
+  "source": "Blender Official Website",
+  "link": "https://www.blender.org/features/",
+  "tags": ["3D", "software", "open-source", "animation", "rendering"],
+  "tags_zh": ["3D", "软件", "开源", "动画", "渲染"],
+  "date": "2025-09-19",
+  "summary_en": "Blender is a free and open-source 3D creation suite that supports the entire 3D pipeline: modeling, sculpting, animation, simulation, rendering, compositing, and video editing. It is widely used by artists and studios for its flexibility and powerful features.",
+  "summary_zh": "Blender 是一款免费开源的 3D 创作套件，覆盖完整的 3D 流程：建模、雕刻、动画、模拟、渲染、合成以及视频剪辑。由于其灵活性与强大功能，被广泛应用于艺术创作和专业工作室。",
+  "best_quote_en": "Blender is the free and open source 3D creation suite.",
+  "best_quote_zh": "Blender 是一款免费开源的 3D 创作套件。"
+}
+,
   {
-    "id": 3,
-    "title": "When Simulated Worlds Meet Real Concerns",
-    "title_zh": "当模拟世界遇上真实忧虑",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/CL9KG7SYwDHhBcwD7/when-simulated-worlds-meet-real-concerns",
-    "tags": [
-      "inspire",
-      "ai-research",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "启发",
-      "AI研究",
-      "数据驱动"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This thought-provoking piece challenges conventional AI safety narratives by introducing the philosophical lens of simulation theory. It masterfully intertwines complex ideas of consciousness, agency, and reality, urging a shift from fear-driven AI development to one rooted in curiosity and wonder. The author reflects on how the possibility of a simulated existence might reframe our understanding of AI as an intrinsic part of a larger computational substrate, rather than an external threat. This perspective doesn't dismiss the importance of AI safety but advocates for a 'softer approach' where concerns are held more lightly, inviting readers to consider AI development as an exploration of consciousness itself. It's a fascinating exploration that encourages deep introspection on our relationship with technology and reality.",
-    "summary_zh": "这篇文章巧妙地将AI安全议题与模拟理论哲学深度融合，令人耳目一新。它挑战了我们对AI的固有恐惧，转而倡导一种基于好奇与探索的视角。作者深思，若我们身处模拟之中，AI或许并非外部威胁，而是我们共同存在的计算基底的一部分。这不减损AI安全的意义，却提示我们以更超脱的心态审视，将AI发展视为对意识本质的共同探索。这不仅是一次智力上的冒险，更是一次对我们自身存在与科技未来关系的深刻反思，引人入胜。",
-    "best_quote_en": "Perhaps the safest AI is the kind we develop when we're not driven primarily by the need to feel safe.",
-    "best_quote_zh": "也许最安全的AI，是我们不再主要被寻求安全的需求所驱动时，才能开发出来的。"
-  },
+  "id": 3,
+  "title": "World Digital Library: About this Collection",
+  "title_zh": "世界数字图书馆：关于本馆藏",
+  "source": "Library of Congress",
+  "link": "https://www.loc.gov/collections/world-digital-library/about-this-collection/",
+  "tags": ["cultural heritage", "digital collection", "libraries", "open access"],
+  "tags_zh": ["文化遗产", "数字藏品", "图书馆", "开放获取"],
+  "date": "2025-09-19",
+  "summary_en": "The World Digital Library (WDL) is a global project launched in 2009 by the U.S. Library of Congress and UNESCO, aimed at preserving and sharing important cultural heritage materials from around the world. The collection includes books, manuscripts, maps, newspapers, photographs, sound recordings, and films from partner institutions globally. Content is made available in multiple languages, with descriptions, metadata, and narrative context to situate each item. The project emphasizes cross-cultural understanding, free public access, and the diversity of time periods, cultures, and media.",
+  "summary_zh": "世界数字图书馆（World Digital Library，简称 WDL）是由美国国会图书馆与联合国教科文组织于 2009 年发起的全球性项目，旨在保存并分享来自世界各地的重要文化遗产资料。该馆藏包括图书、手稿、地图、报纸、照片、录音和影片等多种媒介内容，由全球合作机构提供。所有内容包含叙述性描述、元数据，并提供叙述性语境，以帮助理解每件藏品的重要性。项目支持多语言界面和多种语言的资料描述，强调跨文化理解、公众免费访问，以及涵盖不同历史时期与文化的多样性。",
+  "best_quote_en": "The World Digital Library sought to preserve and share some of the world’s most important cultural objects, increasing access to cultural treasures and significant historical documents to enable discovery, scholarship, and use.",
+  "best_quote_zh": "世界数字图书馆旨在保存并分享世界上一些最重要的文化物件，提高文化珍宝与重大历史文献的可获取性，以促进发现、学术研究和使用。"
+}
+,
+ {
+  "id": 4,
+  "title": "Maxon ZBrush",
+  "title_zh": "Maxon 的 ZBrush",
+  "source": "Maxon 官网",
+  "link": "https://www.maxon.net/zh/zbrush",
+  "tags": ["digital sculpting", "3D modelling", "painting", "subscription", "iPad"],
+  "tags_zh": ["数字雕刻", "3D 建模", "绘画/上色", "订阅制", "iPad 版"],
+  "date": "2025-04-02",
+  "summary_en": "ZBrush is a professional 3D digital sculpting, painting, and modelling tool now under Maxon. It supports very high polygon counts, with dynamic sculpting, creating detailed models, and has evolved to include subscription-based licensing, updates for both desktop and iPad versions, integration with Maxon's Redshift materials, and workflow improvements in its modeling system ZModeler. The software is widely used in games, films, concept art, and visual effects.",
+  "summary_zh": "ZBrush 是一个专业的 3D 数字雕刻、建模与绘画软件，现为 Maxon 所属。它支持极高的多边形数目与动态雕刻，可以制作细节丰富的模型，同时引入了订阅许可模式。ZBrush 的桌面版与 iPad 版本都有更新，并且集成了 Maxon 的 Redshift 材质，ZModeler 建模系统在工作流上有改进。此软件广泛应用于游戏、电影、概念艺术与视觉特效等领域。",
+  "best_quote_en": "Maxon has released ZBrush 2025.2, the latest version of its digital sculpting software… adding new Redshift materials and workflow improvements in ZModeler.",
+  "best_quote_zh": "Maxon 发布了 ZBrush 2025.2，这是其数字雕刻软件的最新版本……加入了新的 Redshift 材质，以及 ZModeler 在工作流程上的改进。"
+}
+,
   {
-    "id": 4,
-    "title": "Harvard’s Mixed Victory",
-    "title_zh": "哈佛的“惨胜”",
-    "source": "The New Yorker",
-    "link": "https://www.newyorker.com/news/the-lede/harvards-mixed-victory",
-    "tags": [
-      "analyze",
-      "politics",
-      "education",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "政治时事",
-      "教育学习",
-      "数据驱动"
-    ],
-    "date": "2025-09-06",
-    "summary_en": "This article delves into Harvard's recent legal victory against the Trump administration's attempt to freeze its federal funding, dissecting the nuanced implications for higher education. While the court sided with Harvard, affirming principles of academic freedom and rule of law, the author thoughtfully highlights that this win is far from a decisive triumph. The administration's actions, masked by claims of enforcing civil rights, were revealed as an ideologically motivated assault on academic independence. The piece critically examines how, despite the legal win, universities like Harvard might still be compelled to concede to government pressures, illustrating the ongoing tension between financial reliance and intellectual autonomy. It's a sobering look at how political agendas can undermine foundational educational values, leaving one to ponder the true cost of 'victory' in such battles.",
-    "summary_zh": "这篇文章深度剖析了哈佛大学在对抗特朗普政府冻结其联邦拨款一案中的“惨胜”。尽管法院裁定哈佛胜诉，捍卫了学术自由和法治原则，但作者敏锐地指出，这远非一场彻底的胜利。行政部门以“执行民权”为名，实则对学术独立进行意识形态攻击。文章引人深思，即便法律上获胜，大学仍可能被迫向政治压力妥协，这揭示了对资金的依赖与知识自主性之间持续的张力。这让我不禁思考，在这样的博弈中，所谓的“胜利”究竟要付出怎样的代价，以及大学如何才能真正维护其核心价值。",
-    "best_quote_en": "“It is unlikely that any Jew, even one directly impacted by antisemitism would be in favor of stopping research on, for example, Alzheimer’s disease, heart disease, or autism to name a few, as a means of redressing their unrelated harm.”",
-    "best_quote_zh": "“任何一个犹太人，即使是那些直接受到反犹主义影响的人，也不太可能赞成停止对例如阿尔茨海默病、心脏病或自闭症等疾病的研究，以此作为弥补他们不相关伤害的手段。”"
-  },
+  "id": 5,
+  "title": "Hong Kong Film Archive",
+  "title_zh": "香港电影资料馆",
+  "source": "香港电影资料馆官网",
+  "link": "https://www.filmarchive.gov.hk/sc/web/hkfa/home.html",
+  "tags": ["film archive", "Hong Kong cinema", "heritage", "culture", "research"],
+  "tags_zh": ["电影资料", "香港电影", "文化遗产", "文化", "研究"],
+  "date": "2025-09-19",
+  "summary_en": "The Hong Kong Film Archive (HKFA), under the Leisure and Cultural Services Department, is dedicated to preserving Hong Kong’s film heritage. Its mission includes acquiring, preserving, cataloguing, and providing access to films, film-related materials, and documents. HKFA also organizes thematic exhibitions, screenings, seminars, and publishes research to promote the appreciation and study of Hong Kong cinema and film culture. Its building in Sai Wan Ho houses a cinema, exhibition halls, a resource centre, and vaults for film preservation.",
+  "summary_zh": "香港电影资料馆隶属康乐及文化事务署，致力于保存香港的电影遗产。其使命包括收集、保存、编目以及开放获取电影及相关资料文献。资料馆定期举办专题展览、放映、研讨会，并出版研究成果，以推广对香港电影与电影文化的欣赏和研究。位于西湾河的馆舍设有电影院、展览厅、资源中心及专业的胶片库房，用于保存电影拷贝与档案。",
+  "best_quote_en": "The HKFA is committed to preserving Hong Kong’s film heritage and promoting film culture through preservation, research, and public programmes.",
+  "best_quote_zh": "香港电影资料馆致力于保存香港电影遗产，并通过保存、研究与公众活动推广电影文化。"
+}
+,
   {
-    "id": 41,
-    "title": "Putting Ideas into Words",
-    "title_zh": "将想法付诸文字",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/words.html",
-    "tags": [
-      "learn",
-      "startup-strategy",
-      "education",
-      "case-study"
-    ],
-    "tags_zh": [
-      "学习",
-      "创业策略",
-      "教育学习",
-      "案例研究"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This essay profoundly explores the symbiotic relationship between writing and thinking, arguing that the act of articulating ideas in written form is not merely a transcription process but a crucible for refining, completing, and even discovering thoughts. The author posits that true understanding and fully formed ideas emerge only through the rigorous process of committing them to words, often revealing their imprecision or incompleteness. This piece challenges the common misconception that ideas exist perfectly formed in the mind before expression, suggesting instead that writing serves as an indispensable tool for intellectual development and clarity. It underscores the unique rigor of writing compared to other forms of communication, presenting it as a demanding yet essential path to deeper knowledge and self-awareness.",
-    "summary_zh": "这篇文章深刻阐述了写作与思维的共生关系。我深受启发，原来将想法付诸文字并非简单记录，而是一个淬炼和完善思想的过程，甚至能帮助我们发现未曾察觉的洞见。作者挑战了那种认为想法在表达前已然完美的普遍观念，强调了写作作为一种严谨的智力工具，其在促进思考深度、清晰度和自我认知方面的不可或缺性。这让我反思，许多“模糊”的念头，或许正是因为缺乏文字的检验与固化。写作，不仅仅是表达，更是思想的体操，是通往更深层次理解的必经之路。",
-    "best_quote_en": "If writing down your ideas always makes them more precise and more complete, then no one who hasn't written about a topic has fully formed ideas about it. And someone who never writes has no fully formed ideas about anything nontrivial.",
-    "best_quote_zh": "如果把你的想法写下来总是能让它们更精确、更完整，那么任何没有写过某个话题的人，对此都没有完全成型的想法。而一个从不写作的人，对任何非琐碎的事情都没有完全成型的想法。"
-  },
-  {
-    "id": 42,
-    "title": "Medical decision making",
-    "title_zh": "医疗决策",
-    "source": "LessWrong",
-    "link": "https://www.lesswrong.com/posts/rR4n7iqfRdxMYbdMs/medical-decision-making",
-    "tags": [
-      "solve",
-      "medicine",
-      "controversial"
-    ],
-    "tags_zh": [
-      "解决",
-      "医学健康",
-      "争议观点"
-    ],
-    "date": "2025-09-07",
-    "summary_en": "This insightful piece from Lesswrong Sydney delves into the complexities of medical decision-making, offering a critical perspective on navigating the healthcare system. It emphasizes the need for personal agency, advocating for patients to be proactive, seek second opinions, and even challenge medical orthodoxy. The content highlights the inherent conflicts of interest within the medical and pharmaceutical industries, and the limitations of doctors' statistical knowledge. It's a pragmatic guide for patients to optimize for quality of life, stressing the importance of gathering information, understanding risks (like the '5-year rule' for new drugs), and having advance care directives. The article ultimately encourages self-responsibility and preventive health, providing actionable advice for anyone facing significant health choices.",
-    "summary_zh": "Lesswrong Sydney这篇关于医疗决策的文章，读来令人深思。它犀利地指出医疗系统并非完美，患者必须主动出击，质疑权威，甚至寻求多方意见。文章揭示了医疗行业中潜在的利益冲突，并提醒我们，即便是专业医生也可能存在知识盲区。它鼓励我们掌握自己的健康命运，提前规划，并警惕新药风险。这不仅仅是关于如何看病，更是关于如何在信息不对称的复杂环境中，为自己做出最佳选择，最终回归到自我负责与健康生活方式的根本。",
-    "best_quote_en": "No one is more responsible to you than you are. It would be nice if they cared as much as you, but they simply cannot.",
-    "best_quote_zh": "没有人比你自己更对你负责。如果他们能像你一样关心你，那当然很好，但他们根本做不到。"
-  },
+  "id": 6,
+  "title": "Python for Everybody",
+  "title_zh": "人人都会Python",
+  "source": "PY4E 官方网站",
+  "link": "https://www.py4e.com/book",
+  "tags": ["Python", "programming", "education", "open book", "data analysis"],
+  "tags_zh": ["Python", "编程", "教育", "开源教材", "数据分析"],
+  "date": "2025-09-19",
+  "summary_en": "Python for Everybody (PY4E) is an open educational book by Dr. Charles Severance designed as an Informatics-oriented introduction to programming. It focuses on using Python to solve common data analysis problems rather than emphasizing pure computer science theory. The book and resources are freely available in multiple formats (PDF, HTML, EPUB, interactive notebooks) and translated into many languages, with sample code, exercises, and supporting online courses. Widely adopted in universities and self-learning communities, PY4E lowers barriers for beginners to enter programming.",
+  "summary_zh": "《Python for Everybody》（PY4E）是 Charles Severance 博士编写的开源教育教材，以信息学为导向介绍编程，重点在于用 Python 解决常见数据分析问题，而非单纯计算机科学理论。教材和资源以多种格式免费提供（PDF、HTML、EPUB、交互式笔记本），并被翻译成多种语言，配有示例代码、练习题以及配套的在线课程。PY4E 已广泛用于高校课程和自学社群，帮助初学者降低编程入门门槛。",
+  "best_quote_en": "The goal of this book is to provide an Informatics-oriented introduction to programming.",
+  "best_quote_zh": "本书的目标是提供一个以信息学为导向的编程入门。"
+}
+,
   {
     "id": 44,
     "title": "Wisereads Vol. 98 – The Magic of Code by Samuel Arbesman, Daniel Pink on finding purpose, and more",
