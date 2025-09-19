@@ -103,74 +103,51 @@
   "best_quote_zh": "本书的目标是提供一个以信息学为导向的编程入门。"
 }
 ,
+{
+    "id": 7,
+    "title": "Essential Driving Course - Beckenham Driving School",
+    "title_zh": "必备驾驶课程 - 贝肯纳姆驾校",
+    "source": "Beckenham Driving School",
+    "link": "https://www.driving-school-beckenham.co.uk/essential-driving-course.html",
+    "tags": ["driving", "course", "UK"],
+    "tags_zh": ["驾驶", "课程", "英国"],
+    "date": "2025-09-19",
+    "summary_en": "The Essential Driving Course by Beckenham Driving School is designed for learners who want to gain confidence, improve road safety awareness, and prepare for driving tests. It emphasizes practical skills, defensive driving, hazard awareness, and decision-making under real traffic conditions.",
+    "summary_zh": "贝肯纳姆驾校的必备驾驶课程专为希望增强信心、提高道路安全意识并准备驾驶考试的学员而设计。课程强调实用技能、防御性驾驶、危险意识以及在真实交通环境下的决策能力。",
+    "best_quote_en": "Our Essential Driving Course equips learners with the confidence and safety awareness needed for today's busy roads.",
+    "best_quote_zh": "我们的必备驾驶课程让学员具备在当今繁忙道路上行驶所需的信心与安全意识。"
+}
+,
   {
-    "id": 44,
-    "title": "Wisereads Vol. 98 – The Magic of Code by Samuel Arbesman, Daniel Pink on finding purpose, and more",
-    "title_zh": "Wisereads 第98期 – Samuel Arbesman 的《代码的魔力》、Daniel Pink 谈寻找人生目标等",
-    "source": "Weekly Wisereads",
-    "link": "https://wise.readwise.io/issues/wisereads-vol-98/",
-    "tags": [
-      "learn",
-      "design",
-      "leadership",
-      "future-prediction"
-    ],
-    "tags_zh": [
-      "学习",
-      "设计创意",
-      "领导管理",
-      "未来预测"
-    ],
-    "date": "2025-07-06",
-    "summary_en": "This Wisereads digest offers a compelling collection of insights, primarily focusing on the evolving relationship between humans and technology, alongside personal growth and strategic thinking. The critical evaluation of \"second brains\" highlights the distinction between data accumulation and genuine reflection, a pertinent point in our information-saturated age. The shift in AI from prompting to \"context engineering\" is a fascinating and actionable insight for anyone in the tech space, suggesting a deeper, more architectural approach to AI development. Daniel Pink's unconventional questions for finding purpose are thought-provoking, urging a return to childhood curiosities. Overall, the digest provides a rich tapestry of ideas that encourage a more intentional and reflective engagement with both technology and self, moving beyond superficial interaction to deeper understanding and application.",
-    "summary_zh": "这期Wisereads文摘内容丰富，触及了人与科技关系的深刻演变，也探讨了个人成长与战略思维。其中对“第二大脑”的反思，一针见血地指出信息堆积与深度思考的本质区别，令人警醒。AI领域从“提示词工程”转向“上下文工程”的洞见，更是为我打开了新思路，预示着AI应用将走向更深层次的架构设计。Daniel Pink关于寻找人生目标的提问，也引发了我对童年好奇心的重新审视。这是一份能激发思考、促进行动的宝贵资源，超越了表层信息，直抵知识与自我探索的核心。",
-    "best_quote_en": "\"In trying to remember everything, I outsourced the act of reflection. I didn’t revisit ideas. I didn’t interrogate them. I filed them away and trusted the structure. But a structure is not thinking. A tag is not an insight. And an idea not re-encountered might as well have never been had.\"",
-    "best_quote_zh": "“在试图记住一切的过程中，我把反思的行为外包了。我没有重新审视想法。我没有质疑它们。我只是把它们归档，并信任这个结构。但结构不是思考。标签不是洞察。一个没有被重新遇到的想法，可能根本就从未存在过。”"
-  },
+    "id": 8,
+    "title": "T&T Supermarket",
+    "title_zh": "大统华超市",
+    "source": "T&T Supermarket 官网",
+    "link": "https://www.tntsupermarket.com/chs/",
+    "tags": ["supermarket", "Asian food", "Canada", "online shopping"],
+    "tags_zh": ["超市", "亚洲食品", "加拿大", "网上购物"],
+    "date": "2025-09-19",
+    "summary_en": "T&T Supermarket is Canada's largest Asian supermarket chain, offering a wide variety of fresh produce, seafood, groceries, ready-to-eat meals, and specialty Asian products. The official website provides store information, online shopping options, weekly promotions, and membership benefits. It serves as a hub for both in-store and online customers seeking authentic Asian food experiences.",
+    "summary_zh": "大统华超市是加拿大最大的亚洲连锁超市，提供丰富的新鲜农产品、海鲜、杂货、熟食和特色亚洲商品。官方网站提供门店信息、网上购物渠道、每周促销和会员优惠，是顾客获取正宗亚洲食品和购物体验的重要平台。",
+    "best_quote_en": "Canada’s largest Asian supermarket, bringing authentic Asian flavors to your table.",
+    "best_quote_zh": "加拿大最大的亚洲超市，把正宗的亚洲风味带到您的餐桌。"
+}
+,
   {
-    "id": 45,
-    "title": "African Trips",
-    "title_zh": "非洲之旅",
-    "source": "Kevin Kelly",
-    "link": "https://kk.org/cooltools/african-trips/",
-    "tags": [
-      "guide",
-      "design"
-    ],
-    "tags_zh": [
-      "指导",
-      "设计创意"
-    ],
-    "date": "2025-08-25",
-    "summary_en": "This article reviews two essential resources for overland travel in Africa: 'Sahara Overland' and 'African Adventure Atlas'. 'Sahara Overland' is lauded as the definitive guide for navigating the challenging Sahara desert, offering comprehensive practical advice on vehicles, supplies, itineraries, and dangers. It emphasizes the importance of self-reliance and preparedness over blind trust in local guides. The 'African Adventure Atlas' is presented as an unparalleled cartographic resource for the entire continent, providing crucial details like border crossings, park entrances, and mileage markers, which are typically absent from other maps in developing regions. Together, these resources empower adventurous travelers with the knowledge to undertake challenging expeditions, highlighting the unique blend of danger and discovery inherent in African overland journeys. The article implicitly suggests a mindset of robust preparation and adaptability for such endeavors.",
-    "summary_zh": "这篇文章深度评测了两本非洲陆路旅行的“圣经”：《撒哈拉陆路行》和《非洲探险地图集》。前者是穿越撒哈拉的终极指南，强调详尽的实用知识和独立思考；后者则是非洲大陆无与伦比的地图集，提供其他地图难以企及的细节。读罢深感，真正的探险并非盲目冲动，而是源于周密的准备和对未知世界的敬畏。这些工具不仅是旅行的辅助，更是精神的指引，提醒我们在追求刺激的同时，不忘尊重自然、依靠智慧。这让我反思，无论何种“探险”，知识和工具都是抵达目的地的基石，而内心的勇气和应变能力，才是最宝贵的财富。",
-    "best_quote_en": "The Sahara is a desert as large as the United States filled with emptiness, ancient cultures, and natural wonders. America has its own recreational deserts in the west, but for Africa and Europe, the Sahara is where you go to test yourself.",
-    "best_quote_zh": "撒哈拉沙漠大如美国，充满虚无、古老文化和自然奇观。美国西部有自己的休闲沙漠，但对非洲和欧洲而言，撒哈拉是你去考验自己的地方。"
-  },
-  {
-    "id": 46,
-    "title": "Is There Such a Thing as Good Taste?",
-    "title_zh": "品味是否存在？",
-    "source": "Paul Graham",
-    "link": "http://www.paulgraham.com/goodtaste.html",
-    "tags": [
-      "inspire",
-      "startup-strategy",
-      "design",
-      "controversial"
-    ],
-    "tags_zh": [
-      "启发",
-      "创业策略",
-      "设计创意",
-      "争议观点"
-    ],
-    "date": "2025-09-08",
-    "summary_en": "This essay provocatively argues for the existence of \"good taste,\" particularly in art, by using a reductio ad absurdum. The author challenges the relativist notion that all preferences are equal, asserting that denying good taste necessitates denying good art and, by extension, the very concept of skill in artistic creation. He addresses common objections, such as disagreement in taste and the subjective nature of aesthetic experience, by positing that art's purpose is to act upon a human audience with shared commonalities. The analogy of a vaccine's effectiveness, despite individual immune system variations, cleverly illustrates how an object can possess inherent \"goodness\" even if its effect is mediated by the observer. This piece encourages a deeper, more nuanced understanding of aesthetic judgment, moving beyond simplistic subjective/objective binaries.",
-    "summary_zh": "这篇探讨品味的文章，以反证法精彩论证了“好品味”的存在，尤其在艺术领域。作者挑战了那种认为所有偏好皆等同的相对主义观点，指出若否定好品味，便不得不否定好艺术及艺术创作中的技艺。他巧妙回应了关于品味分歧和审美主观性的常见质疑，通过疫苗的例子，阐明了艺术品如何能拥有内在的“好”，即便其效果依赖于观者。这不仅是一次智力上的挑战，更启发我们重新审视审美判断的复杂性，超越非此即彼的简单二元论。",
-    "best_quote_en": "If we start from the premise that there's no such thing as good taste, we end up with conclusions that are obviously false, and therefore the premise must be wrong.",
-    "best_quote_zh": "如果我们从没有好品味这个前提出发，我们会得出显而易见的错误结论，因此这个前提必然是错的。"
-  },
+    "id": 9,
+    "title": "EnglishClass101",
+    "title_zh": "EnglishClass101 英语学习平台",
+    "source": "EnglishClass101",
+    "link": "https://www.englishclass101.com",
+    "tags": ["学习", "语言", "英语"],
+    "tags_zh": ["学习", "语言", "英语"],
+    "date": "2025-09-19",
+    "summary_en": "EnglishClass101 offers thousands of audio and video lessons from beginner to advanced levels. It provides lesson notes, translations, quizzes, vocabulary tools, and daily English mini-lessons. Learners can also access live private or group classes and mobile apps.",
+    "summary_zh": "EnglishClass101 提供从零基础到高级的大量音频和视频课程，配有课程笔记、翻译、测验和词汇工具。每天还有英语小课堂更新，并支持移动端学习，同时提供私人或小组的在线课程。",
+    "best_quote_en": "Start speaking from Lesson #1 with thousands of lessons by real teachers.",
+    "best_quote_zh": "从第一课开始开口说英语，数千节由真实老师授课的课程等你学习。"
+}
+,
   {
     "id": 47,
     "title": "Being Handed Puzzles",
