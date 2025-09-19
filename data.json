@@ -14,29 +14,20 @@
   "best_quote_zh": "“古老神祇宣告，若一个领域的居民要征服另一个领域，必须在十届连续的武术锦标赛中击败守护领域的最强战士，这个锦标赛即为『真人快打』。”"
 },
 {
-    "id": 1,
-    "title": "‘I felt doomed’: social media guessed I was pregnant – and my feed soon grew horrifying",
-    "title_zh": "社交媒体在我怀孕前就猜到了，我的信息流很快变得可怕",
-    "source": "Women | The Guardian",
-    "link": "https://www.theguardian.com/lifeandstyle/2025/sep/03/i-felt-doomed-social-media-guessed-i-was-pregnant-my-feed-soon-grew-horrifying",
-    "tags": [
-      "analyze",
-      "science",
-      "medicine",
-      "data-driven"
-    ],
-    "tags_zh": [
-      "分析",
-      "科学研究",
-      "医学健康",
-      "数据驱动"
-    ],
-    "date": "2025-09-03",
-    "summary_en": "This article masterfully exposes the insidious nature of social media algorithms, particularly their predatory targeting of vulnerable groups like pregnant women. It highlights how platforms, driven by engagement metrics, exploit fear and anxiety, transforming what should be a joyful period into a barrage of distressing content. The piece compellingly argues that this isn't a 'glitch' but a deliberate design choice for monetization, raising critical questions about ethical AI, data privacy, and societal responsibility. It underscores the urgent need for robust safeguarding measures and greater transparency from tech companies, offering a chilling glimpse into how personal data can be weaponized against user well-being. The implications extend beyond individual distress to broader concerns about mental health and the digital manipulation of human emotions.",
-    "summary_zh": "这篇文章深刻揭示了社交媒体算法的阴暗面，特别是它们如何精准且无情地利用孕妇的脆弱心理。它让我不禁思考，当技术发展超越伦理边界时，我们如何保护自身免受其害。算法将恐惧变现，这不仅仅是技术失误，更是设计使然。这种对用户心理健康的漠视，呼唤着更严格的法规和更负责任的企业行为。这不仅仅是个人困扰，更是对数字时代人类尊严的拷问。",
-    "best_quote_en": "“Distressing content isn’t a glitch; it’s engagement, and engagement is revenue.”",
-    "best_quote_zh": "“令人不安的内容不是故障；它是互动，而互动就是收入。”"
-  },
+  "id": 2,
+  "title": "DYNASTY WARRIORS: ORIGINS",
+  "title_zh": "真·三国无双 起源",
+  "source": "Koei Tecmo America",
+  "link": "https://www.koeitecmoamerica.com/dw_origins/us/?utm_source=kt&utm_medium=referral&utm_campaign=change_lang",
+  "tags": ["game", "action", "Three Kingdoms", "Dynasty Warriors"],
+  "tags_zh": ["游戏", "动作", "三国", "无双系列"],
+  "date": "2025-01-17",
+  "summary_en": "Dynasty Warriors: Origins is a new installment in the legendary hack-and-slash series. Set during the late Eastern Han period, players take on the role of an amnesiac martial artist navigating chaos, meeting iconic warlords, and carving their own path through massive battles.",
+  "summary_zh": "《真·三国无双 起源》是无双系列最新作，背景设定在东汉末年乱世。玩家扮演失忆的武人，在战火纷飞的土地上与群雄相遇，经历无数战斗，不断成长，开辟属于自己的道路。",
+  "best_quote_en": "Walk your own path and become a true warrior.",
+  "best_quote_zh": "走出属于你的道路，成为真正的无双武者。"
+}
+,
   {
     "id": 2,
     "title": "Superlinear Returns",
