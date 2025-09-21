@@ -176,7 +176,7 @@ function applyAndRender() {
     renderSources(['all', ...new Set(raw.map(x => x.source))]);
     // 彩蛋：输入 magic 试试看
     if (query === 'magic') {
-      alert('✨ 哇！你发现了隐藏功能！');
+      alert('仓库要重新fork');
     }
 }
 
