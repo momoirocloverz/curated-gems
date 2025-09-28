@@ -84,8 +84,8 @@ function mountControls() {
 
     // 🔍 优化后的搜索框提示文字 - 更友好、更直观
     const placeholder = lang === 'zh'
-        ? '🔍 这里可以搜索...'
-        : '🔍 you can search here...';
+        ? '🙈这里可以搜索...'
+        : '🐕Type here...';
 
     controlsEl.innerHTML = `
         <div class="controls">
@@ -177,7 +177,7 @@ function applyAndRender() {
     renderSources(['all', ...new Set(raw.map(x => x.source))]);
     // 彩蛋：输入 magic 试试看
     if (query === 'magic') {
-      alert('✨ 哇！你发现了隐藏功能！');
+      alert('✨ 发现了隐藏功能！');
     }
 }
 
@@ -215,8 +215,8 @@ function render(items) {
 
         // 😅 优化后的空结果提示 - 更友好、提供建议
         const emptyTexts = {
-            zh: '😅 没有找到相关内容，换个关键词试试吧， 或许会有惊喜',
-            en: '😅 No relevant content found, try different keywords'
+            zh: '😅 没喜',
+            en: '😅 No relevant ords'
         };
 
         emptyEl.textContent = emptyTexts[lang];
