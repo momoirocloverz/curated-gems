@@ -7,6 +7,7 @@ let searchEl, sourcesEl;
 // 常用DOM选择器函数
 const $ = sel => document.querySelector(sel);
 
+
 // 获取主要DOM元素
 const listEl = $('#list');
 const emptyEl = $('#empty');
